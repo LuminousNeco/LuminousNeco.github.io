@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/articles/undefined", {data:[{url:"http:\u002F\u002Fec2-54-150-105-27.ap-northeast-1.compute.amazonaws.com",post:{result:false,error:{message:"Not Found"}}}],fetch:[],mutations:void 0});
